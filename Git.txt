@@ -1,0 +1,137 @@
+1. Git
+-> 
+infocys.com/git/gt
+Git repo-> (folder)
+GT
+1. Proj 1 (runa, ssrfaraj)
+2. proj2
+3.proj3
+
+infocys.com/git/team2
+1.2
+3
+
+
+share path:
+vs 
+git
+
+2- local, remote/central
+1bc.afc checkout -> 
+1bc.afc checkout
+2 copy local & remote
+after cgnage
+push
+it goes to remote
+
+local copy abc.txt-> 2 line
+local copy abc.text -> 5 line
+
+runa push->done
+srfar push-> conflict
+
+
+file  : abc.txt
+1
+2
+3
+run- chout : 1-3
+srfars-> checkout: 1-3
+
+run-> 1-5-> push 1-5
+
+srafr- > push 
+copare old version(chout date) with remote version(current(1-5))
+it should be same, only you can push
+
+how to remove conflict -> kepp backup of your changes  checkout again from server(git), srfaraj needs to take runa changes before pushining
+
+1fdd f dsf sd f
+2 C
+3rerere
+
+sarfaras
+
+2: A->B
+----------------------------------------------------
+Remote: a,b,c,d,e
+
+srfaraj-> 1 April -chekcout-> a b c
+1 june chekout: -> +f -> push
+
+sarfasj -> +f -> push 
+
+push-> local copy(before chnage)===remote copy
+
+1. diff(2 files) e.g lcaolcopy & reote copy
+2. history -file version history
+
+1. push 
+comit
+pull
+checin
+
+GIT(MS), SVN , VSS(MS)->Code Vresion controll system/repo
+
+
+
+
+
+
+
+
+
+
+
+github account details 
+runak91- user
+prashant#100- passwrd
+
+
+login karo email verify karna hai
+gmail kholo, kitna paka rhe ho email ayege gmail me from github
+
+java-demos
+o gya 
+abhi age ka step pura karo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
